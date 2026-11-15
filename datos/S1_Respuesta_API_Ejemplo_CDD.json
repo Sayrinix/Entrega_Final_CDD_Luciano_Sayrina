@@ -1,0 +1,3016 @@
+{
+  "meta": {
+    "servicio": "API de ejemplo · Red de monitoreo de calidad del aire (simulada para docencia)",
+    "version": "1.2",
+    "generado": "2026-09-21T10:00:00-03:00",
+    "licencia": "CC BY 4.0 (conjunto sintético de uso docente)",
+    "paginacion": {
+      "pagina": 1,
+      "por_pagina": 100,
+      "total": 100,
+      "siguiente": null
+    }
+  },
+  "data": [
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-01",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 37.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 58.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-02",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 25.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 63.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-03",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 29.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 75.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-04",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 55.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-05",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 39.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 79.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-06",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 42.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 76.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-07",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 69.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-08",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 30.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 61.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-09",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 29.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 81.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-10",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 37.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 75.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-11",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 27.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 52.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 5.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-12",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 38.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 80.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-13",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 53.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 80.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-14",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 47.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 66.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-15",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 40.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 80.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 5.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-16",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 38.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 54.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-17",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 25.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 57.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-18",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 38.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 82.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 23.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-19",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 35.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 54.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-20",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 44.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 65.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-21",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 47.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 69.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-22",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 22.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 74.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-23",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 38.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 63.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-24",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 34.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 45.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-001",
+      "ubicacion": {
+        "comuna": "Concepción",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.827,
+          "lon": -73.0498
+        }
+      },
+      "fecha": "2026-04-25",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 51.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 63.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 7.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-01",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 52.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 123.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-02",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 45.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 117.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-03",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 59.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 104.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 17.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-04",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 44.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 96.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-05",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 60.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 89.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-06",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 51.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 79.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-07",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 70.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 101.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-08",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 96.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-09",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 62.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 82.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-10",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 43.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 116.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-11",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 47.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 106.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-12",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 60.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 89.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-13",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 50.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 108.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-14",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 36.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 100.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-15",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 54.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 127.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-16",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 52.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 138.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-17",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 45.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 104.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-18",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 53.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 110.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-19",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 37.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 91.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-20",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 56.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 89.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-21",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 60.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 117.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-22",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 65.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 102.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-23",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 44.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 105.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-24",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 62.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 112.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-002",
+      "ubicacion": {
+        "comuna": "Los Ángeles",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -37.4697,
+          "lon": -72.3536
+        }
+      },
+      "fecha": "2026-04-25",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 65.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 102.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-01",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 55.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 124.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-02",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 72.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 118.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-03",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 64.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 126.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-04",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 59.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 112.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-05",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 59.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 78.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-06",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 55.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 122.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 6.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-07",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 64.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 93.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-08",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 58.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 125.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-09",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 62.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 109.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-10",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 62.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 123.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-11",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 58.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 117.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-12",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 50.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 128.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-13",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 56.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 108.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-14",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 65.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 120.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-15",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 48.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 128.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-16",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 55.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 100.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-17",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 53.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 98.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-18",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 70.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 120.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-19",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 61.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 102.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 17.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-20",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 76.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 101.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-21",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 67.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 104.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-22",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 57.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 111.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-23",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 69.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 97.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-24",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 60.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 116.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-003",
+      "ubicacion": {
+        "comuna": "Chillán",
+        "region": "Ñuble",
+        "coordenadas": {
+          "lat": -36.6066,
+          "lon": -72.1034
+        }
+      },
+      "fecha": "2026-04-25",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 47.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 90.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.9,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-01",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 26.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 74.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-02",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 21.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 83.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 15.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-03",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 34.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 51.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-04",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 26.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 61.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 17.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-05",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 25.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 40.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-06",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 44.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 67.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-07",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 22.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 83.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-08",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 37.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 55.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-09",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 40.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 50.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-10",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 39.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 73.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 13.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-11",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 28.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 59.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 9.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-12",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 39.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 57.9,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 16.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-13",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 42.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 77.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 6.4,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-14",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 18.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 57.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-15",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 38.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 61.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-16",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 26.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 75.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.6,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-17",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 34.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 51.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-18",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 29.6,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 60.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-19",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 30.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 64.4,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 14.3,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-20",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 35.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 69.5,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 17.1,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "preliminar"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-21",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 29.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 72.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 12.5,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-22",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 56.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 11.7,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-23",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.2,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 66.8,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 10.2,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-24",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 33.0,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 70.3,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 8.8,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    },
+    {
+      "codigo_estacion": "EST-004",
+      "ubicacion": {
+        "comuna": "Talcahuano",
+        "region": "Biobío",
+        "coordenadas": {
+          "lat": -36.7249,
+          "lon": -73.1168
+        }
+      },
+      "fecha": "2026-04-25",
+      "mediciones": [
+        {
+          "parametro": "pm25",
+          "valor": 40.7,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "pm10",
+          "valor": 71.1,
+          "unidad": "ug/m3"
+        },
+        {
+          "parametro": "temperatura",
+          "valor": 18.0,
+          "unidad": "C"
+        }
+      ],
+      "calidad_dato": "validado"
+    }
+  ]
+}
